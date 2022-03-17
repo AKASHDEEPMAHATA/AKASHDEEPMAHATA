@@ -27,7 +27,7 @@
 - <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.github.com/AKASHDEEPMAHATA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashdeepmahata" height="80" width="90" /></a>
-<a href="https://auth.geeksforgeeks.org/user/akashdeepmahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashdeepmahata" height="80" width="90" /></a>
+<a href="https://auth.geeksforgeeks.org/user/akashdeepmahata/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashdeepmahata" height="80" width="90" /></a>
 <a href="https://www.leetcode.com/akashdeepmahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashdeepmahata" height="80" width="90" /></a>
 <a href="https://www.hackerrank.com/akashdeepmahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="akashdeepmahata" height="80" width="90" /></a></p>
 
