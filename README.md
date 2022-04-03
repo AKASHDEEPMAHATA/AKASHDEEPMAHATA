@@ -22,6 +22,8 @@
 
 - 📫 How to reach me **akashdeepmahata@gmail.com**
 
+- 👨‍💻 Google Developer profile https://g.dev/AkashdeepMahata
+ 
 - ⚡ Fun fact **I think I am JFM (Jolly,Friendly,Macho)**
 
 - <h3 align="left">Connect with me:</h3>
