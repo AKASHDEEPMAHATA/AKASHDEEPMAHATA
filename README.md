@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKASHDEEPMAHATA](https://github.com/AKASHDEEPMAHATA)
 
-- 📝 I regularly write articles on [https://akashdeepmahata.github.io/footballduniya/](https://akashdeepmahata.medium.com/)
+- 📝 I regularly write articles on [https://akashdeepmahata.medium.com/](https://akashdeepmahata.medium.com/)
 
 - 💬 Ask me about **MEARN,C,C++,PYTHON**
 
