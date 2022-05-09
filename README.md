@@ -16,11 +16,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKASHDEEPMAHATA](https://github.com/AKASHDEEPMAHATA)
 
-- 📝 I regularly write articles on [https://akashdeepmahata.github.io/footballduniya/](https://akashdeepmahata.github.io/footballduniya/)
+- 📝 I regularly write articles on [https://akashdeepmahata.github.io/footballduniya/](https://akashdeepmahata.medium.com/)
 
 - 💬 Ask me about **MEARN,C,C++,PYTHON**
 
-- 📫 How to reach me **akashdeepmahata@gmail.com**
+- 📫 How to reach me **https://akashdeepmahata.medium.com/**
 
 - 👨‍💻 Google Developer profile https://g.dev/AkashdeepMahata
  
