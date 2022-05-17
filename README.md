@@ -1,5 +1,5 @@
-
-<h1 align="center">Hi 👋, I'm Akashdeep Mahata</h1>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Akashdeep Mahata </h1>
 <h3 align="center">A passionate full stack developer | python programmer |C++ programmer</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepmahata&label=Profile%20views&color=0e75b6&style=flat" alt="akashdeepmahata" /> </p>
 
@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on [Football Duniya](https://akashdeepmahata.github.io/footballduniya/)
 
-- 🌱 I’m currently learning **Kotlin, Machine Learning**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👯 I’m looking to collaborate on [Football Duniya](https://akashdeepmahata.github.io/footballduniya/)
 
@@ -18,7 +18,7 @@
 
 - 📝 I regularly write articles on [https://akashdeepmahata.medium.com/](https://akashdeepmahata.medium.com/)
 
-- 💬 Ask me about **MEARN,C,C++,PYTHON**
+- 💬 Ask me about **C,C++,PYTHON,DSA**
 
 - 📫 How to reach me **https://akashdeepmahata.medium.com/**
 
@@ -26,7 +26,7 @@
  
 - ⚡ Fun fact **I think I am JFM (Jolly,Friendly,Macho)**
 
-- <h3 align="left">Connect with me:</h3>
+- <h3 align="left">Coding profile :</h3>
 <p align="left">
 <a href="https://www.github.com/AKASHDEEPMAHATA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashdeepmahata" height="80" width="90" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashdeepmahata/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashdeepmahata" height="80" width="90" /></a>
