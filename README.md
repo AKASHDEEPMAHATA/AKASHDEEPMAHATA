@@ -18,11 +18,11 @@
 
 - 📝 I regularly write articles on [https://akashdeepmahata.medium.com/](https://akashdeepmahata.medium.com/)
 
-- 💬 Ask me about **C,C++,PYTHON,DSA**
+- 💬 Ask me about **Anything**
 
 - 📫 How to reach me **https://akashdeepmahata.medium.com/**
 
-- 👨‍💻 Google Developer profile https://g.dev/AkashdeepMahata
+
  
 
 
