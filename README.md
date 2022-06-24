@@ -4,9 +4,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepmahata&label=Profile%20views&color=0e75b6&style=flat" alt="akashdeepmahata" /> </p>
 
+<p align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AKASHDEEPMAHATA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-
+</p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -29,7 +30,7 @@
 
 
 - <h3 align="left">Coding profile :</h3>
-<p align="left">
+<p align="center">
 <a href="https://www.github.com/AKASHDEEPMAHATA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="akashdeepmahata" height="80" width="90" /></a>
 <a href="https://auth.geeksforgeeks.org/user/akashdeepmahata/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="akashdeepmahata" height="80" width="90" /></a>
 <a href="https://www.leetcode.com/akashdeepmahata" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="akashdeepmahata" height="80" width="90" /></a>
@@ -40,5 +41,18 @@
 <br><br>
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+<table>
+<tr>
+<td>
+<a href="https://github.com/AKASHDEEPMAHATA">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"
+alt="AKASHDEEEP's Github Stats" height="180rem" />
+</a>
+</td>
+<td>
+<a href="https://github.com/AKASHDEEPMAHATA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180rem" /></a>
+</td>
+</tr>
+</table>
+ </p>
