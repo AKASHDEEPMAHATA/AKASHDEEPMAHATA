@@ -4,10 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepmahata&label=Profile%20views&color=0e75b6&style=flat" alt="akashdeepmahata" /> </p>
 
-<p align="center">
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AKASHDEEPMAHATA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
-</p>
+
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
