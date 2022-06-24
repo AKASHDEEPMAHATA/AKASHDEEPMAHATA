@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://www.belenclaver.com/wp-content/uploads/2021/05/aplicaciones-entrevistas-de-seleccio%CC%81n-en-diferido.png" /></a>
 <h1 align="center">Hi , I'm Akashdeep Mahata </h1>
 <!-- <h3 align="center">A passionate full stack developer | C++ programmer </h3> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepmahata&label=Profile%20views&color=0e75b6&style=flat" alt="akashdeepmahata" /> </p>
