@@ -51,6 +51,11 @@ alt="AKASHDEEEP's Github Stats" height="200rem" />
 <td>
 <a href="https://github.com/AKASHDEEPMAHATA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=" height="200rem"/></a>
 </td>
+<td>
+<a href="https://github.com/AKASHDEEPMAHATA/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@AKASHDEEPMAHATA&compact=True"/>
+</a>
+</td>
 </tr>
 </table>
  </p>
