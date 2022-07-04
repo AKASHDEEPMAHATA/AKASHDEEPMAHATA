@@ -4,12 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akashdeepmahata&label=Profile%20views&color=0e75b6&style=flat" alt="akashdeepmahata" /> </p>
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Trophies  <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
 ![](https://github-profile-trophy.vercel.app/?username=AKASHDEEPMAHATA&theme=dracula&no-frame=false&no-bg=false&margin-w=4)
 
 
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🔭 I’m currently working on [Football Duniya](https://akashdeepmahata.github.io/footballduniya/)
 
