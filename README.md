@@ -45,11 +45,11 @@
 <td>
 <a href="https://github.com/AKASHDEEPMAHATA">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false"
-alt="AKASHDEEEP's Github Stats" height="180rem" />
+alt="AKASHDEEEP's Github Stats" height="200rem" />
 </a>
 </td>
 <td>
-<a href="https://github.com/AKASHDEEPMAHATA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" height="180rem" /></a>
+<a href="https://github.com/AKASHDEEPMAHATA"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKASHDEEPMAHATA&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=false&layout=" height="200rem"/></a>
 </td>
 </tr>
 </table>
