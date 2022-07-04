@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Football Duniya](https://akashdeepmahata.github.io/footballduniya/)
 
-- 🌱 I’m currently learning **Kotlin**
+- 🌱 I’m currently learning **Data Science**
 
 - 👯 I’m looking to collaborate on [Football Duniya](https://akashdeepmahata.github.io/footballduniya/)
 
